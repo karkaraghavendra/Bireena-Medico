@@ -1,0 +1,8 @@
+{
+  "name": "Medico",
+  "description": "A comprehensive healthcare management system featuring a high-conversion landing page and secure authentication for hospital administration and patient services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
